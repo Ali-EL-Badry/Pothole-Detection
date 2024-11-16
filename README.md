@@ -20,4 +20,3 @@ A deep learning-based solution for detecting potholes in road surfaces using com
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/Pothole-Detection.git
-```
