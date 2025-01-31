@@ -6,7 +6,7 @@ This project uses **YOLO (You Only Look Once)** 🧠 for detecting potholes in r
 
 - **Real-time pothole detection** on images and video streams 🎥📸.
 - **Pretrained YOLO models** (YOLOv5, YOLOv8) for accurate and fast pothole detection ⚡.
-- **Custom pothole detection dataset** built from real-world images to ensure diverse conditions 🛣️.
+- **Custom pothole detection dataset** built from real-world images to ensure diverse conditions 🛣️
 
 ## Technologies 💻
 
